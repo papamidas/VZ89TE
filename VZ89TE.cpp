@@ -1,3 +1,6 @@
+// Arduino driver for VZ89TE air quality sensor
+// DM1CR, Nov 26, 2020
+//
 #include "VZ89TE.h"
 
 VZ89TE::VZ89TE(void) {

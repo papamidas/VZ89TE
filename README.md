@@ -11,7 +11,7 @@ usage together with platformio:
 hardware:
 
 1. Arduino UNO
-2. Multifuncion shield
+2. Multifunction shield
 3. Air Quality Sensor MICS-VZ-89TE, connected to 3v3/GND and SCL/SDA of your Arduino. Do not forget pullup-resistors between SCL,SCA and 3v3.
 
 That's it!
